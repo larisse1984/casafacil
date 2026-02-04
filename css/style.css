@@ -1,0 +1,61 @@
+/*padrao de computador*/
+@media(max-width: 4000px) {
+    body{
+        background-color: blue;
+    }
+}
+/*padrao de celular*/
+@media(max-width:430px) {
+    body{
+        background-color: rgb(76, 149, 174);
+    }
+    .case{
+        padding-left:10px ;
+        padding-top: 10px;
+    }
+    .case img{
+        width: 45%;
+    }
+    .quadradinhos{
+        text-align: center !important;
+        margin-top: -40px;
+
+
+    }
+    .quadradinhos img{
+        width: 7%;
+        margin-left: 5%;
+        margin-right: 5%;
+
+    }
+    .slider{
+        width: 100%;
+        overflow: hidden;
+        height: 300px;
+        margin-top: 18px;
+    }
+    .slider img{
+        height: 300px;
+    }
+    .sliderprincipal{
+        display: flex;
+        width: 300%;
+
+    }
+    .laider{
+        width: 33.33;
+    }
+    .sliderprincipal input{
+        display: none;
+    }
+    #bola1:checked~ .primeiro{
+        margin-left: 0%;
+    }
+    #bola1:checked~ .primeiro{
+        margin-left: -33.33%;
+    }
+    #bola3:checked~ .primeiro{
+        margin-left: -66.66%;
+    }
+    
+}
