@@ -44,6 +44,7 @@
     }
     .laider{
         width: 33.33;
+        transition: margin-left 2s;
     }
     .sliderprincipal input{
         display: none;
@@ -57,5 +58,65 @@
     #bola3:checked~ .primeiro{
         margin-left: -66.66%;
     }
+    .ut{
+        text-align: center;
+        background-color: rgb(148, 90, 69);
+        height: 200px;
+    }
+    .ut img{
+        height: 100px;
+    }
+    .ut h1{
+        padding-bottom: 5%;
+        padding-top: 5%;
+        font-size: 20px;
+    }
+    .ut button{
+        margin-top: 20px;
+        border: 2px solid blue;
+        background-color: rgb(125, 142, 143);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: white;
+        text-transform: uppercase;
+        padding: 7px;
+    }
+    .s3 img{
+        height: 100px;
+        margin-top: 10px;
+        border-radius: 50%;
+    }
+    .s3 h1{
+        padding-bottom:5% ;
+        padding-top: 5%;
+        font-size: 18px;
+    }
+    .s3 h3{
+        font-size: 16px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    footer{
+        background-color: rgb(111, 123, 123);
+        color: white;
+        padding-top:5% ;
+        padding-bottom: 5%;
+        text-align: center;
+    }
+    footer h1{
+        font-size: 20px;
+    }
+    .fixo{
+        height: 38px;
+        background-color: rgb(3, 155, 210);
+        position: fixed;
+        bottom: 0;
+        z-index: 2;
+        width: 100%;
+    }
+    .fixo img{
+        width: 45%;
+        margin-left: 10%;
+    }
+    
     
 }
