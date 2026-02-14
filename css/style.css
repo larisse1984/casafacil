@@ -158,6 +158,41 @@
         color: rgb(46, 245, 215);
         text-decoration-line: underline;
     }
+    .unico{
+     padding-bottom: 30px;
+     padding-top: 30px;
+     font-size: 30px;
+     color: rgb(35, 35, 139);
+    }
+    .escolha button{
+        background-color: rgb(201, 135, 100);
+        color: white;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        border: none;
+
+    }
+    .escolha img{
+        height: 150px;
+    }
+    .escolha h1{
+        font-size: 30px;
+        color: rgb(59, 55, 52);
+
+    }
+    .escolha{
+        background-color:rgb(17, 168, 185);
+        margin-top: 10px;
+    }
+    .novidade{
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+
+        
+    }
     
     
-}
+
