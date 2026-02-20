@@ -190,6 +190,56 @@
         font-size: 25px;
         padding-bottom: 10px;
     }
+    .lenda h4{
+        font-size: 25px;
+        margin-top: 10px;
+    }
+    .lenda img{
+        margin-left: 20px;
+        margin-top: 10px;
+        
+    }
+    .camas{
+        font-size: 25px;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        
+    }
+    .simples{
+        font-size: 20px;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .m1{
+        height: 30%;
+    }
+    .copo h4{
+        font-size: 25px;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        
+    }
+    .copo{
+        padding-bottom: 20px;
+    }
+    .copo img{
+        height: 150px;
+        width: 95%;
+    }
+    .posta img{
+        height: 100px;
+        width: 95%;
+        margin-bottom: 10px;
+    }
+    .for1{
+        font-size: 30px;
+        text-align: center;
+       
+
+    }
 
         
     }
