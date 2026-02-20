@@ -230,16 +230,53 @@
         width: 95%;
     }
     .posta img{
-        height: 100px;
+        height: 120px;
         width: 95%;
         margin-bottom: 10px;
     }
+    
+    .f1{
+        
+        margin-bottom: 20px;
+        margin-left: 20px;
+        margin-top: 20px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: blue;
+        font-size: 40px;
+        text-align: center;
+    }
     .for1{
         font-size: 30px;
-        text-align: center;
+       
+    }
+    .for1 h1{
+        margin-top: 10px;
+    }
+    .for1 input{
+        width: 80%;
+        height: 40px;
+        border-radius: 10px;
+    }
+    .for1 button{
+        margin-left: 0px;
+        font-size: 25px;
+        background-color: rgb(239, 52, 52);
+        margin-top: 30px;
+        margin-bottom: 20px;
+        width: 50%;
+        height: 60px;
+        border-radius: 15px;
+    }
+    .esta{
+        font-size: 30px;
+        margin-bottom: 15px;
+        margin-top: 20px;
+    }
+
+        
        
 
-    }
+    
 
         
     }
